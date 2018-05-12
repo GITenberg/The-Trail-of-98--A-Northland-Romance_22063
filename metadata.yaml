@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/117
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Service
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22063#The-Trail-of-98--A-Northland-Romance
 gutenberg_issued: '2007-07-13'
 gutenberg_type: Text
 identifiers:
